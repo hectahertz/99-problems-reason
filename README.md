@@ -8,6 +8,10 @@ Solutions to [99 Problems](https://ocaml.org/learn/tutorials/99problems.html) im
 
 [Solution](src/p01.re)
 
+2. Find the last but one (last and penultimate) elements of a list. (easy)
+
+[Solution](src/p02.re)
+
 # Build
 
 ```
