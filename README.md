@@ -28,6 +28,10 @@ Solutions to [99 Problems](https://ocaml.org/learn/tutorials/99problems.html) im
 
 [Solution](src/p06.re)
 
+7. Flatten a nested list structure. (medium)
+
+[Solution](src/p07.re)
+
 # Build
 
 ```
