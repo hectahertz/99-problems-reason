@@ -32,6 +32,10 @@ Solutions to [99 Problems](https://ocaml.org/learn/tutorials/99problems.html) im
 
 [Solution](src/p07.re)
 
+8. Eliminate consecutive duplicates of list elements. (medium)
+
+[Solution](src/p08.re)
+
 # Build
 
 ```
