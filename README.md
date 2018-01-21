@@ -12,6 +12,10 @@ Solutions to [99 Problems](https://ocaml.org/learn/tutorials/99problems.html) im
 
 [Solution](src/p02.re)
 
+3. Find the k'th element of a list. (easy)
+
+[Solution](src/p03.re)
+
 # Build
 
 ```
