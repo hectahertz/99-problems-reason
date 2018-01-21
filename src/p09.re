@@ -4,8 +4,8 @@ let pack = list => {
     switch list {
     | [] => []
     | [h] => [[h, ...curr], ...acc]
-    | [h, ...[th, ..._] as t] =>
-      h == th ? aux([h, ...curr], acc, t) : aux([], [[h, ...curr], ...acc], t)
+    | [h, ...[th, ..._] as t] when h == th => aux([h, ...curr], acc, t)
+    | [h, ...t] => aux([], [[h, ...curr], ...acc], t)
     };
   List.rev(aux([], [], list));
 };
