@@ -20,6 +20,10 @@ Solutions to [99 Problems](https://ocaml.org/learn/tutorials/99problems.html) im
 
 [Solution](src/p04.re)
 
+5. Reverse a list. (easy)
+
+[Solution](src/p05.re)
+
 # Build
 
 ```
