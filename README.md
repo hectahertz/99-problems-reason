@@ -24,6 +24,10 @@ Solutions to [99 Problems](https://ocaml.org/learn/tutorials/99problems.html) im
 
 [Solution](src/p05.re)
 
+6. Find out whether a list is a palindrome. (easy)
+
+[Solution](src/p06.re)
+
 # Build
 
 ```
