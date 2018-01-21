@@ -36,6 +36,10 @@ Solutions to [99 Problems](https://ocaml.org/learn/tutorials/99problems.html) im
 
 [Solution](src/p08.re)
 
+9. Pack consecutive duplicates of list elements into sublists. (medium)
+
+[Solution](src/p09.re)
+
 # Build
 
 ```
