@@ -16,6 +16,10 @@ Solutions to [99 Problems](https://ocaml.org/learn/tutorials/99problems.html) im
 
 [Solution](src/p03.re)
 
+4. Find the number of elements of a list. (easy)
+
+[Solution](src/p04.re)
+
 # Build
 
 ```
