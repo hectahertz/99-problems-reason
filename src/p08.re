@@ -3,8 +3,8 @@ let rec compress = list =>
   switch list {
   | [] => []
   | [x] => [x]
-  | [h, ...[th, ...tt] as t] =>
-    h === th ? compress([h, ...tt]) : [h, ...compress(t)]
+  | [h, th, ...tt] when h === th => compress([h, ...tt])
+  | [h, ...t] => [h, ...compress(t)]
   };
 
 Js.log(
