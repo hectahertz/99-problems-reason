@@ -40,6 +40,10 @@ Solutions to [99 Problems](https://ocaml.org/learn/tutorials/99problems.html) im
 
 [Solution](src/p09.re)
 
+10. Run-length encoding of a list. (easy)
+
+[Solution](src/p10.re)
+
 # Build
 
 ```
