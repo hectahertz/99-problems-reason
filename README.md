@@ -44,6 +44,10 @@ Solutions to [99 Problems](https://ocaml.org/learn/tutorials/99problems.html) im
 
 [Solution](src/p10.re)
 
+11. Modified run-length encoding. (easy)
+
+[Solution](src/p11.re)
+
 # Build
 
 ```
