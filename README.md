@@ -48,6 +48,10 @@ Solutions to [99 Problems](https://ocaml.org/learn/tutorials/99problems.html) im
 
 [Solution](src/p11.re)
 
+12. Decode a run-length encoded list. (medium)
+
+[Solution](src/p12.re)
+
 # Build
 
 ```
